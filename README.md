@@ -1,6 +1,3 @@
-# memory-game
-a program in python to show a grid and ask for number of a random place in grid
-
 <div align="center"><h1> memory-game </h1></div>
 <div align="center"><h3> A program in python to show a grid and ask for number of a random place in grid </h3></div>
 
